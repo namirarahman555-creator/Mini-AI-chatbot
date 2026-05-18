@@ -1,0 +1,23 @@
+HOW TO RUN THIS CODE TO MAKE IT WORK-:
+Run in the vscode terminal itself.
+
+
+Activate the virtual environment - venv\Scripts\activate
+
+Verify the API key-echo $env:GOOGLE-API-KEY
+
+Then
+get out of the my_agent folder 
+
+then trace back till Admin
+
+and then run   ' adk web'
+
+
+this will show a local host link 
+we click on it
+
+boom we have our chatbot
+
+
+NOTE-:Create your own API key from Google AI studio
