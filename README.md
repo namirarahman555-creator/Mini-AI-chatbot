@@ -21,6 +21,8 @@ It demonstrates:
 - Beginner-friendly AI project structure
 
 ---
+## TO install necessary libraries
+pip install -r requirements.txt
 
 ##  Technologies Used
 - Python
